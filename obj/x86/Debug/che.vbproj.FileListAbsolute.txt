@@ -1,0 +1,18 @@
+D:\Proyectos\che\che\bin\Debug\Generador de Barras.exe.config
+D:\Proyectos\che\che\bin\Debug\Generador de Barras.exe
+D:\Proyectos\che\che\bin\Debug\Generador de Barras.pdb
+D:\Proyectos\che\che\bin\Debug\Generador de Barras.xml
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.CrystalReports.dll
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.RDLCReports.dll
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.ReportingService05.dll
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.ReportingService05CRI.dll
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.ReportingService08.dll
+D:\Proyectos\che\che\bin\Debug\BarcodeLib.Barcode.ReportingService08CRI.dll
+D:\Proyectos\che\che\obj\x86\Debug\GeneradorBarras.frmAyuda.resources
+D:\Proyectos\che\che\obj\x86\Debug\GeneradorBarras.frmGeneradorBarras.resources
+D:\Proyectos\che\che\obj\x86\Debug\GeneradorBarras.Resources.resources
+D:\Proyectos\che\che\obj\x86\Debug\che.vbproj.GenerateResource.Cache
+D:\Proyectos\che\che\obj\x86\Debug\Generador de Barras.exe
+D:\Proyectos\che\che\obj\x86\Debug\Generador de Barras.xml
+D:\Proyectos\che\che\obj\x86\Debug\Generador de Barras.pdb
